@@ -4,7 +4,7 @@ importers:
 
   .:
     specifiers:
-      '@actions/core': ^1.10.0
+      '@actions/core': ^1.10.1
       '@pipedream/platform': ^1.5.1
       '@pipedream/types': 0.1.4
       '@sentry/node': ^7.7.0
@@ -15935,8 +15935,8 @@ packages:
     resolution: {integrity: sha512-CiJJvcRtIgzadHCYXw7dqEnMNRjhGZlYK05Mj9OyktqV8uVT8fD2BFOB7S1uwBE3Kj2Z+4UyPmFw/Ixgw/LAlA==}
     dev: false
 
-  /@types/whatwg-url/8.2.2:
-    resolution: {integrity: sha512-FtQu10RWgn3D9U4aazdwIE2yzphmTJREDqNdODHrbrZmmMqI0vMheC/6NE/J1Yveaj8H+ela+YwWTjq5PGmuhA==}
+  /@types/ws/8.5.10:
+    resolution: {integrity: sha512-vmQSUcfalpIq0R9q7uTo2lXs6eGIpt9wtnLdMv9LVpIjCA/+ufZRozlVoVelIYixx1ugCBKDhn89vnsEGOCx9A==}
     dependencies:
       '@types/node': 20.11.20
       '@types/webidl-conversions': 7.0.3
